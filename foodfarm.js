@@ -22,8 +22,8 @@ function updateResults() {
 function getMatchingFarmers(selectedProducts) {
     const farmersData = {
         'John_Doe': ['Apples', 'Tomatoes', 'Carrots'],
-        'Jane_Smith': ['Potatoes', 'Strawberries', 'Lettuce'],
-        'Alex_Johnson': ['Corn', 'Peppers', 'Cucumbers'],
+        'Jane_Smith': ['SweetPotatoes', 'Watermelon', 'Pinepples'],
+        'Alex_Johnson': ['maize', 'Peppers', 'Banana'],
     };
 
     return Object.keys(farmersData).filter(farmer => {
