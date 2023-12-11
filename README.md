@@ -1,3 +1,4 @@
 Foodfarm
 Foodfarm is a site for farmers to connect directly with prospective buyers
-file:///home/chronos/u-629c6d145d1fb472e92f70aeb42f6f9b8ca7e715/MyFiles/Downloads/Wix%20Website%20Editor%20_%20Food%20Farm.mhtml
+![Screenshot 2023-12-11 12 06 55](https://github.com/qasqot79/Foodfarm/assets/111513209/6c6e3eb1-fc10-43a9-911c-a9c434f4e026)
+
