@@ -2,3 +2,10 @@
 
 Foodfarm
 Foodfarm is a site for farmers to connect directly with prospective buyers
+Must include link to your deployed site,
+final project blog article,
+Author(s) LinkedIn
+Installation
+Usage
+Contributing
+Licensing
