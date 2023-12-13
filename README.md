@@ -4,17 +4,16 @@
 Foodfarm
 
 Foodfarm is a site for farmers to connect directly with prospective buyers
+Deployed site:https://cocolacec.wixsite.com/food-farm
 
-Must include link to your deployed site,
+final project blog article:https://www.linkedin.com/feed/update/urn:li:share:7140767678578823170/
 
-final project blog article,
+Author(s) LinkedIn:Oladele-Popoola Risikat
 
-Author(s) LinkedIn
+Installation:
 
-Installation
+Usage:
 
-Usage
-
-Contributing
+Contributing:
 
 Licensing
