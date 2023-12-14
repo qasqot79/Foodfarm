@@ -15,10 +15,22 @@ Author(s) LinkedIn:
 
 Oladele-Popoola Risikat
 
+Details:
+
 Installation:
+
+As Foodfarm is a web-based platform, no installation is required for users. Simply visit the deployed site to explore and connect.
 
 Usage:
 
+Farmers: Create detailed profiles to showcase products, farming practices, and certifications.
+
+Buyers: Explore a variety of locally sourced products, connect directly with farmers, and place orders securely.
+
 Contributing:
 
-Licensing
+Popoola Risikat
+
+Licensing:
+
+Popoola Risikat
