@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles.css">
+    <title>FoodFarm - Browse Farms</title>
+</head>
+<body>
+    <div class="container">
+        <h1>FoodFarm - Browse Farms</h1>
+        <form id="preferencesForm">
+            <label for="products">Select Preferred Products:</label>
+            <select id="products" name="products" multiple>
+                <option value="Banana">Banana</option>
+                <option value="Tomatoes">Tomatoes</option>
+                <option value="Carrots">Carrots</option>
+                <option value="SweetPotatoes">SweetPotatoes</option>
+                <option value="Pineapples">Pineapples</option>
+                <option value="Watermelon">Watermelon</option>
+                <option value="Maize">Maize</option>
+                <option value="Peppers">Peppers</option>
+                <option value="">carrots</option>
+            </select>
+            <button type="button" onclick="updateResults()">Update Results</button>
+        </form>
+        <div id="results"></div>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
