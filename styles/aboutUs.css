@@ -1,0 +1,54 @@
+/* About Us Section */
+.about-us {
+    background-color: #f8f8f8;
+    padding: 50px 20px;
+    text-align: center;
+}
+
+.about-us h2 {
+    color: #4caf50; /* Green color for emphasis */
+}
+
+.about-us p {
+    font-size: 16px;
+    line-height: 1.6;
+    color: #555;
+    margin-bottom: 20px;
+}
+
+/* Team Section */
+.team {
+    margin-top: 40px;
+}
+
+.team h3 {
+    color: #4caf50; /* Green color for emphasis */
+}
+
+.team-member {
+    margin: 20px;
+}
+
+.team-member img {
+    border-radius: 50%;
+    max-width: 100px;
+}
+
+.team-member p {
+    font-size: 14px;
+    color: #777;
+}
+
+/* Clients Section */
+.clients {
+    margin-top: 40px;
+}
+
+.clients h3 {
+    color: #4caf50; /* Green color for emphasis */
+}
+
+.client-logo {
+    margin: 20px;
+    max-width: 100px;
+}
